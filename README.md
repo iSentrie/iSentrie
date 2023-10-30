@@ -2,7 +2,7 @@
 - 👀 I’m interested in working on FiveM scripts
 - 🌱 I’m currently learning anything what I have to face
 - 💞️ I’m looking to collaborate on making something for FiveM
-- 📫 Reach me @ Discord iSentrie#9617
+- 📫 Reach me @ Discord `isentrie`
 
 <!---
 iSentrie/iSentrie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
